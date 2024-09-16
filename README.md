@@ -13,3 +13,7 @@ A análise tem como foco responder questões de pesquisa que englobam:
 2. **Correlação** entre as avaliações do Rotten Tomatoes e outros aspectos dos filmes.
 3. **Regressão Linear** para identificar a relação entre as avaliações e variáveis como faturamento.
 4. **Testes de Hipóteses** entre diferentes grupos de filmes (ex: Marvel vs DC).
+
+## **Contribuidores**
+- **Gabriela Marsiglia - RM551237**
+- **João Victor Soares Rodrigues - RM551410**
